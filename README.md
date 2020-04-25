@@ -12,3 +12,5 @@ This is just a simple **Tic Tac Toe game** i made using Java 8. For now it **doe
 ![Main Menu](https://raw.githubusercontent.com/Jervx/TicTacToe---Java/master/Screenshot/V1/UI1.png)
 
 ![Main Board](https://raw.githubusercontent.com/Jervx/TicTacToe---Java/master/Screenshot/V1/UI2.png)
+
+![Main Board Score](https://raw.githubusercontent.com/Jervx/TicTacToe---Java/master/Screenshot/V1/UI3.png)
